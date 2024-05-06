@@ -24,7 +24,7 @@
     
 }
 .submitbtn{
-    width: 10%;
+    width: fit-content;
     border-radius: 10px;
     height: fit-content;
     padding: 10px;
